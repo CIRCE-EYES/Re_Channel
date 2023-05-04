@@ -3,3 +3,6 @@ Hello, here I post a simple but very useful application. It allows you to change
 
 
 ![image](https://user-images.githubusercontent.com/69172266/236270285-1cc55886-3a39-4a4e-b652-be123136ec6d.png)
+
+
+Have in count this... The Folder must only contain Only Midi files! 
